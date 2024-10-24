@@ -1,4 +1,4 @@
-s = str(input("Введите текст: \n"))
+s = str(input("Введите текст: \n")) ##Вариант 2
 num = 0
 for i in range(len(s)):
     if s[i] == ":":
